@@ -1,0 +1,26 @@
+00:00 - Intro
+01:26 - Component Overview
+04:48 - Project Overview
+06:23 - Artifact Registry
+08:06 - Enable Identity-Aware Proxy
+08:45 - OAuth Consent Screen
+10:56 - Load Balancer
+13:12 - Service Account
+15:32 - Configure Docker
+16:50 - Streamlit Application
+18:29 - Docker Build
+21:20 - Docker Push
+21:43 - Cloud Run Deployment
+26:27 - Secure Cloud Run
+27:46 - Create Load Balancer
+34:13 - DNS Records
+35:23 - Check SSL Certificate
+36:16 - Enable Identity-Aware Proxy
+37:02 - Identiy-Aware Proxy Permissions
+37:56 - Cloud Run Permissions
+39:54 - Check SSL Certificate
+40:14 - Access Application
+41:02 - Streamlit Application Changes for URL Mask
+46:44 - Serverless Network Endpoint Group with URL Mask
+48:27 - Access Applications via URL Mask
+49:20 - End
